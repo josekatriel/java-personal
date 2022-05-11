@@ -1,0 +1,3 @@
+prefix: "[FlyPlugin]"
+on-message: "&6You can fly now!"
+off-message: "&4You can't fly anymore!"

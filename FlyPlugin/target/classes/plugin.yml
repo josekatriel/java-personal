@@ -1,0 +1,7 @@
+name: FlyPlugin
+version: '1.0-SNAPSHOT'
+main: me.josekat.flyplugin.FlyPlugin
+api-version: 1.16
+commands:
+  fly:
+    description: make player fly
