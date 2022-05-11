@@ -1,0 +1,7 @@
+name: GuiPlugin
+version: '${project.version}'
+main: me.josekat.guiplugin.GuiPlugin
+api-version: 1.16
+commands:
+  gui:
+    description: gui plugin
