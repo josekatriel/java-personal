@@ -1,0 +1,7 @@
+name: Inventory
+version: '${project.version}'
+main: me.josekat.inventory.Inventory
+api-version: 1.16
+commands:
+  menu:
+    description: Open the inventory menu.
