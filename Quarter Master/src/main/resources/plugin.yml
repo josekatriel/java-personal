@@ -1,0 +1,7 @@
+name: QuarterMaster
+version: '${project.version}'
+main: me.josekat.quartermaster.QuarterMaster
+api-version: 1.16
+commands:
+  lock:
+    description: Lock a Chest
